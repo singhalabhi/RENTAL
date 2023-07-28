@@ -1,0 +1,42 @@
+/* .container1{
+
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+      align-items: center;
+      margin-top: auto;
+
+} */
+/* .container1
+{
+width: 90vw;
+margin-top: 100px;
+
+display: grid;
+grid-template-columns: auto auto auto;
+justify-content: center;
+align-items: center;
+
+
+} */
+
+/* .card
+{
+
+margin: 20px 30px;
+}
+.card img{
+
+    height: 217px;
+    width: 288px
+} */
+footer
+{
+
+background-color: #193a5b;
+
+
+
+}
+
